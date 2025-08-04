@@ -31,7 +31,7 @@ int main (){
     /*Abaixo será exibido as informacoes inseridas da carta 1*/
     printf(" ___________________________________\n");
     printf("|             CARTA 1               \n");
-    printf("|Codido da carta: %c%s              \n", estado1,codigo1);
+    printf("|Codido da carta: %c%s              \n", estado1,codigo1);//nao entendi uma forma de melhorar
     printf("|Cidade: %s                         \n", cidade1);
     printf("|População: %lu                     \n", populacao1);
     printf("|Área: %.2f km2                     \n", area1);
