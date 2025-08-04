@@ -6,7 +6,7 @@ int main (){
     char estado1, estado2; 
     char codigo1[4], codigo2[4];
     char cidade1[20], cidade2[20];
-    unsigned long int populacao1, populacao2; //Utilizarei o unsigned long int, pois abrange numeros grandes (epscificador de formato %lu)
+    unsigned long int populacao1, populacao2;  //Utilizarei o unsigned long int, pois abrange numeros grandes (epscificador de formato %lu)
     float area1, area2;
     float pib1, pib2;
     int atracoes1, atracoes2; //variaveis de pontos turisticos
